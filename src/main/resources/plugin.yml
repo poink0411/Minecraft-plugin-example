@@ -1,0 +1,4 @@
+name: Newplugin
+version: ${project.version}
+main: me.poink_.newplugin.Main
+api-version: 1.16
